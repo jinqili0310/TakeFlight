@@ -6,13 +6,13 @@ class Footer extends Component {
         return (
             <div id="footer_div">
                 <div id="footer_column_div">
-                    <div className="footer_column">
+                    {/* <div className="footer_column">
                         <h1 className="div_heading left footer">About Us</h1>
                         <p className="div_subheading left footer_sub">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.</p>
-                    </div>
+                    </div> */}
 
                     <div className="footer_column">
-                        <h1 className="div_heading left footer">Download</h1>
+                        <h1 className="div_heading left footer">Service</h1>
                         <ul>
                             {this.props.footer.download.map((item, i) => {
                                 return(
@@ -22,7 +22,7 @@ class Footer extends Component {
                         </ul>
                     </div>
                     <div className="footer_column">
-                        <h1 className="div_heading left footer">Company</h1>
+                        <h1 className="div_heading left footer">Contact</h1>
                         <ul>
                         {this.props.footer.company.map((item, i) => {
                                 return(
@@ -32,7 +32,7 @@ class Footer extends Component {
                         </ul>
                     </div>
                 </div>
-                <p className="div_subheading red">© 2018 Avonlea Haymart</p>
+                <p className="div_subheading red">© 2022 TAKE FLIGHT MANAGEMENT, LLC</p>
             </div>
         )
     }

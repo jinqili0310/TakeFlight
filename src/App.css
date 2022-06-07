@@ -6,7 +6,7 @@ a {
 }
 
 a:hover {
-    color: #e45555;
+    color: #5d73aa;
 }
 
 body {
@@ -40,7 +40,7 @@ body {
 }
 
 .red {
-    color: #e45555 !important;
+    color: #5d73aa !important;
 }
 
 @media only screen and (max-width: 767px) {

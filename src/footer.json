@@ -1,42 +1,18 @@
 {
     "download":[
         {
-            "href":"/",
-            "paragraph":"List item"
+            "href":"#",
+            "paragraph":"OEM & ODM Request"
         },
         {
-            "href":"/",
-            "paragraph":"List item"
-        },
-        {
-            "href":"/",
-            "paragraph":"List item"
-        },
-        {
-            "href":"/",
-            "paragraph":"List item"
+            "href":"mailto:admin@takeflightus.com",
+            "paragraph":"Customer Service"
         }
     ],
     "company":[
         {
-            "href":"/",
-            "paragraph":"List item"
-        },
-        {
-            "href":"/",
-            "paragraph":"List item"
-        },
-        {
-            "href":"/",
-            "paragraph":"List item"
-        },
-        {
-            "href":"/",
-            "paragraph":"List item"
-        },
-        {
-            "href":"/",
-            "paragraph":"List item"
+            "href":"#",
+            "paragraph":"11818 Clark St., Bldg B, Arcadia CA 91006"
         }
     ]
 }

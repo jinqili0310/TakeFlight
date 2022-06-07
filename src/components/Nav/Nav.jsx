@@ -6,9 +6,9 @@ class Nav extends Component {
         return (
             <div id="nav_bar">
                 <div id="nav_logo_div">
-                    <img id="nav_logo" src="/assets/img/logo.png" alt="Logo" />
+                    <img id="nav_logo" src="/assets/img/tf-logo.png" alt="Logo" />
                 </div>
-                <div id="nav_list_items_div">
+                {/* <div id="nav_list_items_div">
                     <ul id="nav_list">
 
                         {this.props.navItems.map((item, i) => {
@@ -19,7 +19,7 @@ class Nav extends Component {
                             )
                         })}
                     </ul>
-                </div>
+                </div> */}
             </div>
         )
     }

@@ -1,24 +1,24 @@
 {
     "showcase":[
         {
-            "image":"/assets/img/code.svg",
+            "image":"/assets/img/lightweight.svg",
             "heading":"Lightweight",
-            "paragraph":"This template was coded with organised, reliable code to ensure fast load times and optimum usability."
+            "paragraph":"The application is coded with organized, reliable code to ensure fast load times and optimum usability."
         },
         {
-            "image":"/assets/img/touch.svg",
-            "heading":"Responsive",
-            "paragraph":"With the rise of mobile devices, this template is designed to look great on any screen size."
+            "image":"/assets/img/compatibility.svg",
+            "heading":"Compatibility",
+            "paragraph":"With the rise of mobile devices, the application is designed to be compatible on any operating systems."
         },
         {
-            "image":"/assets/img/dash.svg",
-            "heading":"Clean",
-            "paragraph":"Extra time and throught was taken to produce a design that is free of clutter and wasted space."
+            "image":"/assets/img/lifestyle.svg",
+            "heading":"Lifestyle",
+            "paragraph":"We are committed to create a fully new healthy vape-lifestyle, which guides those to switch from smoking to vaping."
         },
         {
-            "image":"/assets/img/star.svg",
-            "heading":"Modern",
-            "paragraph":"This template will keep your website looking new and fresh. The most modern design techniques were implemented to make sure your product shines through."
+            "image":"/assets/img/community.svg",
+            "heading":"Community",
+            "paragraph":"Our mission is to build a community of living a healthy life with vaping."
         }
         
     ]

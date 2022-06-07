@@ -1,14 +1,14 @@
 #hero_div {
-    padding: 0 15% 130px 15%;
+    padding: 0 15% 60px 15%;
     min-height: 70vh;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    background: linear-gradient(rgba(143, 67, 100, 0.5),rgba(158, 124, 80, 0.5)), url(/assets/img/hero.jpg);
+    background: linear-gradient(rgba(93, 115, 170, 0.5),rgba(151, 181, 155, 0.3)), url(/assets/img/background.png);
     background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    background-position: center top;
+    background-size: auto 80%;
     background-attachment: fixed;
 }
 
@@ -45,8 +45,8 @@
 }
 
 .button_main {
-    background-color: #e45555;
-    border: solid 2px #e45555;
+    background-color: #5d73aa;
+    border: solid 2px #5d73aa;
 }
 
 @media only screen and (max-width: 767px) {
@@ -56,7 +56,7 @@
     }
     
     #hero_div {
-        padding: 0 5% 130px 5%;
+        padding: 0 5% 60px 5%;
     }
 
     #buttons_div {
